@@ -6,7 +6,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/slugbyte/sluggram.git"
   },
-  "author": "Duncan Marsh <dwolfm@gmail.com>",
+  "author": "Liza",
   "license": "MIT",
   "jest": {
     "verbose": true,
